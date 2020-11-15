@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+testSuite login,,,2019-03-22 18:41:28,2019-03-22 18:41:33,4.705s,FAILED
+,,,,,,
+Test Cases/Cura HealthCare Test Cases/Manual Test Case,,Manual test case tutorial Part 2,2019-03-22 18:41:29,2019-03-22 18:41:32,2.894s,FAILED
+"openBrowser("""")",,,2019-03-22 18:41:29,2019-03-22 18:41:32,2.529s,FAILED
+,,,,,,
+Test Cases/Cura HealthCare Test Cases/Record Web,,Sample record web test case.,2019-03-22 18:41:32,2019-03-22 18:41:32,0.719s,FAILED
+"openBrowser("""")",,,2019-03-22 18:41:32,2019-03-22 18:41:32,0.567s,FAILED

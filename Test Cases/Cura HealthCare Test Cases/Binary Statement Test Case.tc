@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case using binary statement</description>
+   <name>Binary Statement Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc8d706d-a52a-49ee-8f6c-b67214b3b7d7</testCaseGuid>
+</TestCaseEntity>

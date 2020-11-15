@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manual test case tutorial Part 2</description>
+   <name>Manual Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee480b36-1a95-4d21-b991-6f4565a55175</testCaseGuid>
+</TestCaseEntity>

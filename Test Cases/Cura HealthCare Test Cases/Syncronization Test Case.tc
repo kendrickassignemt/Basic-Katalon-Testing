@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Syncronization test scenario.</description>
+   <name>Syncronization Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fb6a08c-8020-48f3-a3b0-70eb32d77ac8</testCaseGuid>
+</TestCaseEntity>

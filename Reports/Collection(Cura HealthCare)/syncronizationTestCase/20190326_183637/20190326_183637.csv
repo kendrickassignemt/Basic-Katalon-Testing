@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+syncronizationTestCase,Chrome 73.0.3683.75,syncronization test case suite,2019-03-26 18:36:39,2019-03-26 18:36:58,18.752s,PASSED
+,,,,,,
+Test Cases/Cura HealthCare Test Cases/Syncronization Test Case,Chrome 73.0.3683.75,Syncronization test scenario.,2019-03-26 18:36:39,2019-03-26 18:36:58,18.423s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 73.0.3683.75,,2019-03-26 18:36:39,2019-03-26 18:36:40,0.314s,ERROR
+"openBrowser("""")",Chrome 73.0.3683.75,,2019-03-26 18:36:40,2019-03-26 18:36:46,5.919s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 73.0.3683.75,,2019-03-26 18:36:46,2019-03-26 18:36:55,9.591s,PASSED
+"waitForPageLoad(45, STOP_ON_FAILURE)",Chrome 73.0.3683.75,,2019-03-26 18:36:55,2019-03-26 18:36:56,0.078s,PASSED
+"waitForElementPresent(findTestObject(""Page_CURA Healthcare Service/a_Make Appointment""), 15)",Chrome 73.0.3683.75,,2019-03-26 18:36:56,2019-03-26 18:36:56,0.053s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 73.0.3683.75,,2019-03-26 18:36:56,2019-03-26 18:36:56,0.592s,PASSED
+"waitForElementPresent(findTestObject(""Page_CURA Healthcare Service/button_Login""), 0)",Chrome 73.0.3683.75,,2019-03-26 18:36:56,2019-03-26 18:36:56,0.043s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/input_Username_username""), username)",Chrome 73.0.3683.75,,2019-03-26 18:36:56,2019-03-26 18:36:56,0.127s,PASSED
+"setText(findTestObject(""Page_CURA Healthcare Service/input_Password_password""), password)",Chrome 73.0.3683.75,,2019-03-26 18:36:56,2019-03-26 18:36:56,0.126s,PASSED
+"click(findTestObject(""Page_CURA Healthcare Service/button_Login""))",Chrome 73.0.3683.75,,2019-03-26 18:36:56,2019-03-26 18:36:57,0.725s,PASSED
+closeBrowser(),Chrome 73.0.3683.75,,2019-03-26 18:36:57,2019-03-26 18:36:58,0.703s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 73.0.3683.75,,2019-03-26 18:36:58,2019-03-26 18:36:58,0.016s,PASSED

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sample try and catch statement</description>
+   <name>Try Catch Statement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17ee31fa-6997-42f1-adf4-feb4d6a6740f</testCaseGuid>
+</TestCaseEntity>

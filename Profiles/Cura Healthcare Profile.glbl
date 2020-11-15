@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Cura Healthcare Profile</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Cura Healthcare username login</description>
+      <initValue>'John Doe'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>cura healthcare password login</description>
+      <initValue>'ThisIsNotAPassword'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>seed url for test link</description>
+      <initValue>'https://katalon-demo-cura.herokuapp.com/history.php'</initValue>
+      <name>seedURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

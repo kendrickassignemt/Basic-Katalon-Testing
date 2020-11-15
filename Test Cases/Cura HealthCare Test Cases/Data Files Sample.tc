@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>using data files as input</description>
+   <name>Data Files Sample</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0823655-5fae-4217-93d3-2a9e8187952b</testCaseGuid>
+</TestCaseEntity>
